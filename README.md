@@ -2,7 +2,7 @@
 
 A clean, responsive graphical calculator built with Python and Tkinter. Includes standard arithmetic as well as basic scientific functions.
 
-## 🚀 Features
+## 🚀💫 Features
 * **Standard Math:** Addition, Subtraction, Multiplication, Division.
 * **Scientific Tools:** Exponents (`^`), Square Roots (`√`), Pi (`π`), Logarithms (`log`, `ln`), and Trigonometry (`sin`, `cos`, `tan`).
 * **UI Design:** Nordic Ice light-mode theme with high-contrast, responsive grids.
