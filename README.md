@@ -14,6 +14,6 @@ A clean, responsive graphical calculator built with Python and Tkinter. Includes
 
 ## 🛠️ How to Run
 1. Make sure you have Python installed on your machine.
-2. Open your terminal in this folder and execute:
+2. Open your terminal in this folder and execute::
    ```bash
    python main.py
